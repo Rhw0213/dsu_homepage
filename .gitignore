@@ -1,0 +1,5 @@
+# Publish only approved standalone preview and documentation.
+/*
+!/.gitignore
+!/index.html
+!/README.md
